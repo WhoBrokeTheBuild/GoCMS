@@ -1,0 +1,6 @@
+package main
+
+var dbName = ""
+var dbHost = ""
+var dbUser = ""
+var dbPass = ""
